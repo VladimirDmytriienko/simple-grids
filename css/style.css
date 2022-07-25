@@ -1,0 +1,16 @@
+
+.purp {
+    background-color: purple;
+    min-height: 100vh;
+    border: 5px solid white;
+}
+.purp_o1 {
+    background-color: purple;
+    min-height: 70vh;
+    border: 5px solid white;
+}
+.prp_30 {
+    min-height: 30vh;
+    background-color: purple;
+    border: 5px solid white;
+}
